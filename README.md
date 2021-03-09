@@ -1,12 +1,12 @@
 # stunning-doodle
-In this project am trying to build out-of-core analytics command-line application and gradually improve it to build web-base application. 
+In this project am trying to build out-of-core analytics command-line application and gradually improve it to build web-based application. 
 
-Goal
+Goals
 
 1. Convert CSV file to Parquet file.
 2. Use Umap for memory mapping at userspace.
 3. Use thrust vector_host for in-memory data structue.
-4. Use thrust functions to do analytics.
+4. Use thrust parallel algorithms to do analytics.
 
 Development Stack
 
