@@ -3,7 +3,7 @@ In this project am trying to build out-of-core analytics command-line applicatio
 
 Goals
 
-1. Convert CSV file to Parquet file.
+1. Convert CSV file to Parquet file(https://findingcoefficients.blogspot.com/2021/03/convert-csv-file-parquet-file.html)
 2. Use Umap for memory mapping at userspace.
 3. Use thrust vector_host for in-memory data structue.
 4. Use thrust parallel algorithms to do analytics.
